@@ -35,7 +35,7 @@ Aass9 | Senha invalida.
 Aassd9 | Senha valida.
 
 ```javascript
-//SOLUÇAO 1
+//SOLUCAO 1
 let senha = "";
 do {
     senha = gets();
