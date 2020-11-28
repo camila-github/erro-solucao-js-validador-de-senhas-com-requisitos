@@ -23,15 +23,15 @@ A saída contém uma linha, que pode ser “Senha valida.”, caso a senha tenha
 Exemplos de Entrada  | Exemplos de Saída
 ------------- | -------------
 Digital Innovation One | Senha invalida.
-- | -
+. | .
 AbcdEfgh99 | Senha valida.
-- | -
+. | .
 DigitalInnovationOne123 | Senha valida.
-- | -
+. | .
 Digital Innovation One 123 | Senha invalida.
-- | -
+. | .
 Aass9 | Senha invalida.
-- | -
+. | .
 Aassd9 | Senha valida.
 
 ```javascript
