@@ -37,7 +37,7 @@ Aass9 | Senha invalida.
 Aassd9 | Senha valida.
 
 #### Update:
-Criado funções utilizando constantes (const). Ajustado nomenclatura das constantes (Uso de conceitos CleanCode). 
+14-03-2021 Criado funções utilizando constantes (const). Ajustado nomenclatura das constantes (Uso de conceitos CleanCode). 
 limitado o acesso de variaveis apenas para função que esta utilizando a variavel.
 
 
